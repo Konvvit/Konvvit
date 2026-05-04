@@ -9,7 +9,7 @@ I build modern web applications and work with tools like Microsoft 365, Active D
 
 - 🔭 Working on **ecommerce & dashboard projects**
 - 🌱 Learning **JavaScript, TypeScript & IT systems**
-- 👨‍💻 Portfolio: [https://resume-db8cc.web.app/](https://my-portfolio-d1e15.web.app/)
+- 👨‍💻 Portfolio: (https://my-portfolio-d1e15.web.app/)
 - 📫 Contact: **konvvit@gmail.com**
 
 ---
