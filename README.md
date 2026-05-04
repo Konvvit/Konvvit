@@ -27,6 +27,25 @@
 </p>
 
 ---
+### 🎯 Current Focus
+
+- 💻 Web Development (React, TypeScript, Node.js)
+- 🛠 IT Support & Systems (Active Directory, Windows Server, M365)
+- 📚 Learning Fullstack & Cloud technologies
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Konvvit&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+---
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konvvit&theme=tokyo-night&hide_border=true"/>
+
+---
 
 ### 📊 GitHub Stats
 
