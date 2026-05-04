@@ -41,6 +41,7 @@ I build modern web applications and work with tools like Microsoft 365, Active D
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Konvvit&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 ---
 
 ### 📈 Contribution Graph
