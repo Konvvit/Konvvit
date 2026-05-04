@@ -29,11 +29,12 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=konvvit&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konvvit&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Konvvit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konvvit&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konvvit&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konvvit&theme=tokyonight" />
 </p>
