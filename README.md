@@ -1,10 +1,9 @@
-<h1 align="center"> I'm a web developer with a strong foundation in IT support and system administration.  
-I build modern web applications while also working with Microsoft 365, Active Directory, Windows Server, and PowerShell.  
+## 👋 About Me
 
-Currently focused on growing into a fullstack developer.</h1>
-<h3 align="center">Web Developer & IT Support </h3>
+I'm a web developer with a strong foundation in IT support and system administration.  
+I build modern web applications and work with tools like Microsoft 365, Active Directory, and Windows Server.
 
-<img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/attachments/1130509858551115856/1273977723374538774/nedladdning.gif">
+🚀 Currently growing into a fullstack developer.
 
 ---
 
