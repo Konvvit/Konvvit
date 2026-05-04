@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konwit</h1>
-<h3 align="center">Web Developer & IT Support Enthusiast</h3>
+<h3 align="center">Web Developer & IT Support </h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/attachments/1130509858551115856/1273977723374538774/nedladdning.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 Working on **ecommerce & dashboard projects**
 - 🌱 Learning **JavaScript, TypeScript & IT systems**
-- 👨‍💻 Portfolio: https://resume-db8cc.web.app/
+- 👨‍💻 Portfolio: [https://resume-db8cc.web.app/](https://my-portfolio-d1e15.web.app/)
 - 📫 Contact: **konvvit@gmail.com**
 
 ---
