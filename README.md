@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Konwit</h1>
+<h1 align="center"> I'm a web developer with a strong foundation in IT support and system administration.  
+I build modern web applications while also working with Microsoft 365, Active Directory, Windows Server, and PowerShell.  
+
+Currently focused on growing into a fullstack developer.</h1>
 <h3 align="center">Web Developer & IT Support </h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.discordapp.com/attachments/1130509858551115856/1273977723374538774/nedladdning.gif">
@@ -44,6 +47,10 @@
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konvvit&theme=tokyo-night&hide_border=true"/>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Konvvit&label=Profile%20views&color=0e75b6&style=flat" />
 
 ---
 
